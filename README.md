@@ -1,2 +1,2 @@
-# Debian-pkgs
-Debian packages for various apps
+# Raspbian Pkgs
+Pre compiled Raspbian packages for various application.
